@@ -7,7 +7,7 @@
 6. Spring
 
 git방식
-1. main - 완성된거 올리는 브랜치
+1. master - 완성된거 올리는 브랜치
 2. develop - 작업할 브랜치
 3. error - 에러를 해결하는 브랜치
 
