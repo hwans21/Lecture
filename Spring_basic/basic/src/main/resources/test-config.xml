@@ -4,4 +4,5 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans  
 http://www.springframework.org/schema/beans/spring-beans.xsd">
 	<!-- 위 부분은 딱히 기억할 필요읎음 왜냐 나중에는 자동으로 생성해줄테니깐! -->
+	<bean id="test" class="basic.SpringTest" />
 </beans>
